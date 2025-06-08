@@ -6,6 +6,7 @@ This repository contains my personal solutions to LeetCode problems. I'm using t
 
 | Problem Title                                      | Number |
 |---------------------------------------------------|--------|
+| [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)               | 9 |
 | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/description/)               | 540 |
 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/)               | 852 |
 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)               | 33 |
