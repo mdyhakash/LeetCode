@@ -6,6 +6,7 @@ This repository contains my personal solutions to LeetCode problems. I'm using t
 
 | Problem Title                                      | Number |
 |---------------------------------------------------|--------|
+| [Next Permutation](https://leetcode.com/problems/next-permutation/description/)               | 31 |
 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)               | 88 |
 | [Sort Colors](https://leetcode.com/problems/sort-colors/description/)               | 75 |
 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)               | 9 |
